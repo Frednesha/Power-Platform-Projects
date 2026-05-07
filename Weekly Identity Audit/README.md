@@ -106,5 +106,8 @@ Paste the following into the **Adaptive Card** field of the **"Post card in a ch
 - Microsoft 365
 
 ## Screenshots
-![PowerAutomate Flow](./images/PowerAutomateFlow.png)
-![MS Teams Adapative Card](./images/MicrosoftTeamsAdaptiveCard.png)
+### Adaptive Card Screenshot
+<img src="./images/MicrosoftTeamsAdaptiveCard.png" width="500">
+
+### PowerAutomate Flow Screenshot
+<img src="./images/PowerAutomateFlow.png" width="500">
