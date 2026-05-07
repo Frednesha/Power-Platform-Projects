@@ -104,4 +104,7 @@ Paste the following into the **Adaptive Card** field of the **"Post card in a ch
 - Microsoft Teams (Post card in a chat or channel)
 - Adaptive Cards v1.4
 - Microsoft 365
+
+## Screenshots
 ![PowerAutomate Flow](./images/PowerAutomateFlow.png)
+![MS Teams Adapative Card](./images/MicrosoftTeamsAdaptiveCard.png)
