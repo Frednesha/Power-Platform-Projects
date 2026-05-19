@@ -5,4 +5,7 @@ Projects Involving Power Platform Services
 #ManagedIdentity #PowerAutomate #MSTeams #Automation #PowerPlatform
 
 ## [Project 2: Automated Employee Onboarding — M365 Account Automatically Provisioned and Assigned Licenese via MS Forms](./Autmoated%20Employee%20Onboarding/)
-#ManagedIdentity #PowerAutomate #MSTeams #Automation #PowerPlatform #onboarding
+#ManagedIdentity #PowerAutomate #MSTeams #Automation #Sharepoint #PowerPlatform #Onboarding
+
+## [Project 3: Helpdesk Ticket Portal — Canvas Power App Provisioned for Helpdesk Ticket Submission and Status](./IT%20Helpdesk%20Power%20App/)
+#PowerApps @PowerAutomate #MSTeams #Automation #CanvasApp
