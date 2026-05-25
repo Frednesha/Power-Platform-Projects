@@ -176,10 +176,10 @@ first(body('Get_items')?['value'])?['ColumnName']
 
 ## Screenshots
 ### Welcome Screen
-<img src="./images/PowerApp-HomePage.png width="500">
+<img src="./images/PowerApp-HomePage.png" width="500">
 
 ### Submit Ticket Screen
-<img src="./images/PowerApp-SubmitATicketPage.png width="500">
+<img src="./images/PowerApp-SubmitATicketPage.png" width="500">
 
 ### My Tickets Screen
 <img src="./images/PowerApp-MyTicketsPage.png" width="500">
