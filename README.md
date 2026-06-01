@@ -9,3 +9,6 @@ Projects Involving Power Platform Services
 
 ## [Project 3: Helpdesk Ticket Portal — Canvas Power App Provisioned for Helpdesk Ticket Submission and Status](./IT%20Helpdesk%20Power%20App/)
 #PowerApps @PowerAutomate #MSTeams #Automation #CanvasApp
+
+## [Project 4: Grant Portfolio Dashboard — Power BI Dashboard for Grant Portfolio Health](./IT%20Helpdesk%20Power%20App/)
+#PowerBI #DataVisualization #ProcessImprovement #Dashboards #DAX
